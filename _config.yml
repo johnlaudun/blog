@@ -10,7 +10,7 @@ description:      'Knowledge from information, information from people.'
 # url:              https://johnlaudun.net
 # baseurl:          /
 url: http://johnlaudun.github.io
-baseurl: /blog
+baseurl: http://johnlaudun.github.io/blog
 
 author:
   name:           'John Laudun'
