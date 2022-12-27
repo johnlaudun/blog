@@ -7,8 +7,10 @@
 title:            John Laudun
 tagline:          'Mapping Stories across Networks'
 description:      'Knowledge from information, information from people.'
-url:              https://johnlaudun.net
-baseurl:          /
+# url:              https://johnlaudun.net
+# baseurl:          /
+url: http://johnlaudun.github.io
+baseurl: /blog
 
 author:
   name:           'John Laudun'
