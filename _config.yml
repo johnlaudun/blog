@@ -1,0 +1,24 @@
+# Dependencies
+# markdown:         redcarpet
+# highlighter:      pygments
+
+
+# Setup
+title:            John Laudun
+tagline:          'Mapping Stories across Networks'
+description:      'Knowledge from information, information from people.'
+url:              https://johnlaudun.net
+baseurl:          /
+
+author:
+  name:           'John Laudun'
+  url:            https://zirk.us/johnlaudun
+
+plugins: [jekyll-paginate]
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/johnlaudun/hyde
