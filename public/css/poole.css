@@ -393,6 +393,7 @@ tbody tr:nth-child(odd) th {
 .related-posts {
   padding-left: 0;
   list-style: none;
+  font-family: 'Roboto Condensed', "Helvetica Neue", Verdana, sans-serif;
 }
 .related-posts h3 {
   margin-top: 0;
@@ -421,7 +422,7 @@ tbody tr:nth-child(odd) th {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Roboto Condensed', "Helvetica Neue", Verdana, sans-serif;
   color: #ccc;
   text-align: center;
 }
