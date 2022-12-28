@@ -45,12 +45,10 @@ html {
   }
 }
 
-@font-face{ 
-  font-family: 'Prova'; 
-  src: url('prova-webfont.eot'); 
-  src: url('prova-webfont.eot?#iefix') format('embedded-opentype'), url('prova-webfont.woff') format('woff'), url('prova-webfont.ttf') format('truetype'), url('prova-webfont.svg#webfont') format('svg'); 
+@font-face {
+  font-family: "LeagueGothic";
+  src: url("LeagueGothic-Regular.woff");
 }
-
 /*
  * Sidebar
  *
@@ -89,7 +87,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Prova", serif;
+  font-family: "LeagueGothic", serif;
   font-size: 2rem;
 }
 
