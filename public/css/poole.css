@@ -363,6 +363,12 @@ tbody tr:nth-child(odd) th {
   font-size: 0.65rem
 }
 
+/* PAGE STYLES */
+
+.page p {
+  font-size: 0.8rem;
+}
+
 
 
 /* Related posts */
