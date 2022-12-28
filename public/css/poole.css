@@ -117,6 +117,8 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-family: 'Roboto Condensed', "Helvetica Neue", Verdana, sans-serif;
+  font-size: 1rem;
 }
 
 strong {
@@ -128,6 +130,8 @@ strong {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-family: 'Roboto Condensed', "Helvetica Neue", Verdana, sans-serif;
+  font-size: 0.85rem;
 }
 
 dt {
@@ -224,8 +228,9 @@ pre code {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: #7a7a7a;
   border-left: .25rem solid #e5e5e5;
+  font-family: 'Roboto Condensed', "Helvetica Neue", Verdana, sans-serif;
+  font-size: 0.9rem;
 }
 blockquote p:last-child {
   margin-bottom: 0;
