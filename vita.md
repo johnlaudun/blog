@@ -4,17 +4,15 @@ title: Vita
 weight: 0
 ---
 
-# John Laudun
-
-John Laudun  
+**John Laudun**  
 Department of English  
 University of Louisiana at Lafayette  
 Lafayette, LA 70504-4691  
 337-482-5493  
 laudun@louisiana.edu  
-PORTFOLIO: http://johnlaudun.net/  
-BLOG: http://johnlaudun.org/  
+http://johnlaudun.net/  
 @johnlaudun  
+@johnlaudun@hcommons.social  
 https://github.com/johnlaudun  
 
 

@@ -45,6 +45,11 @@ html {
   }
 }
 
+@font-face{ 
+  font-family: 'Prova'; 
+  src: url('prova-webfont.eot'); 
+  src: url('prova-webfont.eot?#iefix') format('embedded-opentype'), url('prova-webfont.woff') format('woff'), url('prova-webfont.ttf') format('truetype'), url('prova-webfont.svg#webfont') format('svg'); 
+}
 
 /*
  * Sidebar
@@ -84,7 +89,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  font-family: "Prova", serif;
   font-size: 2rem;
 }
 
@@ -121,6 +126,7 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   font-weight: bold;
+  color: #f4bf75;
 }
 
 /* Sticky sidebar

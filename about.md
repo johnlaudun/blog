@@ -46,6 +46,9 @@ Like everyone else, I am rather overwhelmed by the number of sites that seek to 
 
 This site is built using and is itself open source. It is served thanks to the functionality of [GitHub pages][]. It is built "code-less": I do not run Ruby locally and build the site. I have only worked on templates, style sheets, and content from a cloned repository that I then push back to Github. The entirety of this "code-less" site is available for viewing, and for download, at its [GitHub repo][].
 
+<a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub Repo</a>
+    
+
 [GitHub pages]: https://pages.github.com
 [SIL Open Font License]: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 [GitHub repo]: https://github.com/johnlaudun/johnlaudun.net
