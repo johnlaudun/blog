@@ -111,7 +111,9 @@ html {
 }
 .sidebar-nav-item {
   display: block;
-  line-height: 1.75;
+  line-height: 1.5rem;
+  text-transform: uppercase;
+  font-size: 0.75rem;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
