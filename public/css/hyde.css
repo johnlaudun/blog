@@ -106,7 +106,7 @@ html {
   margin-top: 0;
   font-family: 'Roboto Condensed', "Helvetica Neue", Verdana, sans-serif;
   font-style: italic;
-  font-size: 1rem;
+  font-size: 0.75rem;
 }
 
 /* Sidebar nav */
@@ -117,6 +117,7 @@ html {
   display: block;
   line-height: 1.5rem;
   text-transform: uppercase;
+  font-family: 'Roboto Condensed', "Helvetica Neue", Helvetica, sans-serif;
   font-size: 0.75rem;
 }
 a.sidebar-nav-item:hover,

@@ -61,6 +61,7 @@ html {
 }
 
 body {
+  font-family: 'Roboto Condensed', "Helvetica Neue", Helvetica, sans-serif;
   color: #515151;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
@@ -321,6 +322,7 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 3rem;
 }
 .masthead-title {
+  font-family: 'Roboto Condensed', "Helvetica Neue", Helvetica, sans-serif;
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
@@ -359,12 +361,13 @@ tbody tr:nth-child(odd) th {
   margin-top: 0;
 }
 
-/* Meta data line below post title */
+/* Meta data line above post title */
 .post-date {
   display: block;
   margin-top: 0rem;
   margin-bottom: 0rem;
   color: #9a9a9a;
+  font-family: 'Roboto Condensed', "Helvetica Neue", Helvetica, sans-serif;
   font-size: 0.75rem;
 }
 
