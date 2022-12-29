@@ -73,6 +73,10 @@ html {
   }
 }
 
+figcaption {
+  font-size: 0.5rem;
+}
+
 /* Sidebar links */
 .sidebar a {
   color: #fff;
@@ -118,7 +122,7 @@ html {
   line-height: 1.5rem;
   text-transform: uppercase;
   font-family: 'Roboto Condensed', "Helvetica Neue", Helvetica, sans-serif;
-  font-size: 0.75rem;
+  font-size: 1rem;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
