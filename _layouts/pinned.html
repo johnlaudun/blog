@@ -1,0 +1,38 @@
+<!-- layout: post
+title: TITLE HERE
+tags: pinned -->
+
+
+{% if page.url == "/" %}
+    {% for post in site.tags.pinned %}
+          <article class="post">
+            <p class="pinned-article"><b>📌 Pinned</b></p>
+
+            <h1>
+                <a href="{{ site.baseurl }}{{ post.url }}">
+                    {{ post.title }}
+                </a>
+            </h1>
+
+            <div class="entry">
+                <p>
+                    {{ post.excerpt }}
+                </p>
+            </div>
+
+            <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">
+                Read More ⟶
+            </a>
+          </article>
+    {% endfor %}
+{% endif %}
+
+{% for post in site.tags.pinned %}
+     <!-- Renders all the pinned posts -->
+{% endfor %}
+
+{% for post in paginator.posts %}
+    {% unless post.tags contains 'pinned' %}
+        <!-- Renders all the posts except pinned -->
+    {% endunless %}
+{% endfor %}
