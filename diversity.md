@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Diversity Statement
-weight: 3
+title: Diversity
+weight: 5
 ---
 
 Growing up in the Deep South, I witnessed first-hand the toll intolerance takes on a society: as a child, I swam in pools that still were "whites only" (with no signs, but the stricture was just as clear), and as a teenager I grieved alone when my grandfather died, because all the black men I had grown up with while at his side didn't feel comfortable coming to the white funeral home.  I grew up benefiting from the cultures of the South having long been porous but their societies being not only fenced but stratified. As much as I would like it all to be different now, it's not. My goal is to do what I can as a researcher, teacher, and member of my community to make things a bit better here and a bit better there, in the hopes that the bits are a part of that long arc that bends toward justice.

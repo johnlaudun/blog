@@ -369,6 +369,7 @@ tbody tr:nth-child(odd) th {
   color: #9a9a9a;
   font-family: 'Roboto Condensed', "Helvetica Neue", Helvetica, sans-serif;
   font-size: 0.75rem;
+  text-transform: uppercase;
 }
 
 .post p {

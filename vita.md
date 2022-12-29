@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vita
-weight: 0
+weight: 2
 ---
 
 **John Laudun**  

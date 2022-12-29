@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research Statement
-weight: 1
+title: Research
+weight: 3
 ---
 
 Much of the computational work on texts focuses either on the very large texts that are the focus of digital humanities (also now sometimes computational/digital literary studies), like novels, or the very small texts that are the focus of so many computer/information science studies, like social media posts. Computational folkloristics have slowly begun to build a case for the middle ground of texts as a place where meaning and structure can be successfully mapped by the appropriate application of natural language processing (NLP) and, if one considers it separate, machine learning (ML). My work  Tim Tangherlini and Rob Howard, among others, who has steadfastly pursued a line of inquiry focused on the middle-ground of texts and textuality.

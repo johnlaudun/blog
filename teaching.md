@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Teaching Statement
-weight: 2
+title: Teaching
+weight: 4
 ---
 
 One of my goals when I teach is to undermine the divide that course participants seem to think exists between the humanities and the sciences. It helps that the kinds of texts that are usually the focus of my courses, vernacular discourse in general, are often situated near the edge of the humanities/science divide. On the other side lies linguistics, psychology, sociology and beyond them information and computer sciences. Introducing texts as data and working step-by-step through various forms of analysis (sometimes imagined as close and distant reading) enables the kind of grounding in scientific and scholarly methods that participants not only need but makes it possible for them to participate in ways they have not imagined.

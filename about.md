@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-weight: 4
+title: About Me
+weight: 1
 ---
 
 
@@ -35,22 +35,3 @@ John Laudun is Professor of English at the University of Louisiana, where his re
 <p class="caption"><img src="{{ site.baseurl }}/assets/jl_cass.jpg" alt="Giving a talk at the Chinese Academy of Social Sciences"></p>
 
 <p class="caption">Giving a talk at the Chinese Academy of Social Sciences</p>
-
-## Contact
-
-**John Laudun**, Department of English, University of Louisiana, Lafayette, LA 70504, 337-482-6906, laudun at louisiana dot edu
-
-Like everyone else, I am rather overwhelmed by the number of sites that seek to collect the work we do. So, while I am appear on [ORCID][], [Publons][], and [ResearchGate][], I cannot guarantee the currency of any of those listings. (That is what this site is supposed to do, and, in a different moment, those sites would aggregate a site like this using something like RSS, but that moment in the history of the internet appears to have passed.)
-
-## Colophon
-
-This site is built using and is itself open source. It is served thanks to the functionality of [GitHub pages][]. It is built "code-less": I do not run Ruby locally and build the site. I have only worked on templates, style sheets, and content from a cloned repository that I then push back to Github. The entirety of this "code-less" site is available for viewing, and for download, at its [GitHub repo][].
-
-<a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub Repo</a>
-    
-
-[GitHub pages]: https://pages.github.com
-[SIL Open Font License]: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
-[GitHub repo]: https://github.com/johnlaudun/johnlaudun.net
-[Publons]: https://publons.com/researcher/1741597/john-laudun/
-[ORCID]: https://orcid.org/0000-0002-7555-7562
