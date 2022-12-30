@@ -8,8 +8,8 @@ title:    John Laudun
 tagline:  'Mapping Stories across Networks of People'
 description: 'People «» Stories «» Networks'
 version:  "2022-12-27"
-url:      https://johnlaudun.net/
-baseurl:  https://johnlaudun.net/
+url:      https://johnlaudun.net
+baseurl:  /
 
 author:
   name:           'John Laudun'
