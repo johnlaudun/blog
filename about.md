@@ -4,6 +4,8 @@ title: About Me
 weight: 1
 ---
 
+*There's a short version, and a longer version. There's also a photo, but it's at the bottom, so you don't have to look at it unless you really want to.*
+
 ## Short Version (in Third Person)
 
 John Laudun is Professor of English at the University of Louisiana, where his research focuses on computational models of discourse, especially narratives, and how they cascade through socio-cultural networks both online and off. In addition to his work on folk narrative and the intellectual history of folklore studies, he has published an ethnographic study, _The Amazing Crawfish Boat_ (University Press of Mississippi, 2016), that uses actor-network theory to understand creativity and tradition among craftsmen and farmers living and working on a Louisiana landscape. His work has appeared in a variety of academic journals and edited volumes, and he has been cited or interviewed in newspapers and documentaries. He has been a Jacob K. Javits Fellow, a MacArthur Scholar, a fellow at the EVIA Digital Archive, a fellow with the  Institute on Network Studies in the Humanities, and a senior researcher at UCLA's Institute for Pure and Applied Mathematics.
@@ -23,6 +25,15 @@ I have enjoyed a number of experiences that have made me the scholar I am today,
 I have been a faculty member at the University of Louisiana at Lafayette since 1999, and before that I received my PhD from Indiana University - Bloomington. I took time off during my work on the doctorate to be a management development consultant with IU Gradudate School of Business. My M.A. is from Syracuse University, where I focused on the nature of texts and their production and reception as well as learned to play the guitar. My B.A. in English and philosophy is from Louisiana State University, where I put myself through school either working construction jobs in the Louisiana summer sun or producing television commercials for a regional department store chain -- I mis-type *interest* to this day because the Olivetti on which I worked always jammed at *est*.
 
 If you want to connect with me, see the [contact](contact.md) page.
+
+<figure>
+<a href="https://media.johnlaudun.net.s3-us-east-2.amazonaws.com/Laudun_CASS.jpg">
+<img src="https://media.johnlaudun.net.s3-us-east-2.amazonaws.com/Laudun_CASS.jpg"
+width="500"
+alt="At the Chinese Academy of Social Sciences"></a>
+<figcaption>At the Chinese Academy of Social Sciences (<em>Click to embiggen.</em>)</figcaption>
+</figure>
+
 
 [GitHub]: https://github.com/johnlaudun/
 [current state]: https://github.com/johnlaudun/tedtalks
