@@ -1,6 +1,5 @@
-2022-12-29-midjourney
 ---
-title: Midjourney Image Creation
+title: Midjourney AI Image Creation
 layout: post
 ---
 
