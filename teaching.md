@@ -4,6 +4,20 @@ title: Teaching
 weight: 4
 ---
 
+Some of the graduate and undergraduate courses I regularly teach.
+
+*Introduction to Folk Narrative* / [syllabus](https://loristics.net/courses/115/)
+
+*Digital Culture and Folklore* / [syllabus](https://loristics.net/courses/334/)
+
+*America in Legends Online and Off* / [syllabus](https://loristics.net/courses/432/)
+
+*Seminar in Narrative Studies* / [syllabus](https://loristics.net/courses/531/)
+
+Some of the materials from the course I helped to design and teach for the U.S. Army on *Information Advantage* / [Social Information Systems](https://loristics.net/courses/army)
+
+## Statement
+
 One of my goals when I teach is to undermine the divide that course participants seem to think exists between the humanities and the sciences. It helps that the kinds of texts that are usually the focus of my courses, vernacular discourse in general, are often situated near the edge of the humanities/science divide. On the other side lies linguistics, psychology, sociology and beyond them information and computer sciences. Introducing texts as data and working step-by-step through various forms of analysis (sometimes imagined as close and distant reading) enables the kind of grounding in scientific and scholarly methods that participants not only need but makes it possible for them to participate in ways they have not imagined.
 
 I like proceeding this way: the practice of interpreting texts remains for so many a mystic process conducted by hermeneutic priests or impresarios. Making texts both qualitative and quantitative both pulls back the curtain on the mystery of interpretation and aligns the work in our course with other kinds of research into cells, chemicals, or algorithms. My goal is for participants to experience for themselves that texts are machines made of words: they produce distinct meanings that can be enumerated based on which words are used and the order in which they occur. It’s that simple. 
