@@ -43,7 +43,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: black;
-  background-color: whitesmoke;
+  background-color: white;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -62,11 +62,11 @@ figcaption {
 
 /* Sidebar links */
 .sidebar a {
-  color: #fff;
+  color: black;
 }
 
 .sidebar a:hover {
-  color: #f4bf75;
+  color: royalblue;
   text-decoration: none;
 }
 
