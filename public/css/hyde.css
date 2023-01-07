@@ -28,16 +28,8 @@ html {
   }
 }
 
-@font-face {
-  font-family: "LeagueGothic";
-  src: url("LeagueGothic-Regular.woff");
-}
-/*
- * Sidebar
- *
- * Flexible banner for housing site name, intro, and "footer" content. Starts
- * out above content in mobile and later moves to the side with wider viewports.
- */
+
+/* Sidebar */
 
 .sidebar {
   text-align: center;
@@ -66,7 +58,7 @@ figcaption {
 }
 
 .sidebar a:hover {
-  color: royalblue;
+  color: steelblue;
   text-decoration: none;
 }
 
@@ -102,7 +94,7 @@ figcaption {
 }
 .sidebar-nav-item {
   display: block;
-  line-height: 1.5rem;
+  line-height: 1rem;
   text-transform: uppercase;
   font-family: 'Roboto Condensed', "Helvetica Neue", Helvetica, sans-serif;
   font-size: 1rem;
@@ -113,8 +105,9 @@ a.sidebar-nav-item:focus {
   text-decoration: none;
 }
 .sidebar-nav-item.active {
-  font-weight: bold;
-  color: royalblue;
+  /* font-weight: bold; */
+  color: steelblue;
+  background: goldenrod;
 }
 
 /* Sticky sidebar
@@ -184,3 +177,8 @@ a.sidebar-nav-item:focus {
   }
 }
 
+@media print {
+  .sidebar {
+      display:none;
+    }
+  }
