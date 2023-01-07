@@ -89,7 +89,6 @@ figcaption {
 
 /* About section */
 .sidebar-about h1 {
-  color: #fff;
   margin-top: 0;
   font-family: 'Roboto Condensed', "Helvetica Neue", Verdana, sans-serif;
   font-weight: 300;
@@ -97,7 +96,6 @@ figcaption {
 }
 
 .sidebar-about p {
-  color: #fff;
   margin-top: 0;
   font-family: 'Roboto Condensed', "Helvetica Neue", Verdana, sans-serif;
   font-style: normal;
@@ -106,7 +104,6 @@ figcaption {
 }
 
 .sidebar p {
-  color: #fff;
   margin-top: 0;
   font-family: 'Roboto Condensed', "Helvetica Neue", Verdana, sans-serif;
   font-style: italic;
@@ -130,7 +127,7 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   font-weight: bold;
-  color: #f4bf75;
+  color: royalblue;
 }
 
 /* Sticky sidebar
