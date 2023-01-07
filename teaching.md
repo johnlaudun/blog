@@ -6,13 +6,13 @@ weight: 4
 
 Some of the graduate and undergraduate courses I regularly teach.
 
-*Introduction to Folk Narrative* / [syllabus](https://loristics.net/courses/115/)
+**Introduction to Folk Narrative** / [syllabus](https://loristics.net/courses/115/)
 
-*Digital Culture and Folklore* / [syllabus](https://loristics.net/courses/334/)
+**Digital Culture and Folklore** / [syllabus](https://loristics.net/courses/334/) / [schedule](https://loristics.net/courses/334/schedule.html) 
 
-*America in Legends Online and Off* / [syllabus](https://loristics.net/courses/432/)
+**America in Legends Online and Off** / [syllabus](https://loristics.net/courses/432/) / [schedule](https://loristics.net/courses/432/schedule.html)
 
-*Seminar in Narrative Studies* / [syllabus](https://loristics.net/courses/531/)
+**Seminar in Narrative Studies** / [syllabus](https://loristics.net/courses/531/) / [schedule](https://loristics.net/courses/531/schedule.html)
 
 Some of the materials from the course I helped to design and teach for the U.S. Army on *Information Advantage* / [Social Information Systems](https://loristics.net/courses/army)
 
