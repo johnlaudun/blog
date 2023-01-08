@@ -58,7 +58,7 @@ figcaption {
 }
 
 .sidebar a:hover {
-  color: steelblue;
+  color: orange;
   text-decoration: none;
 }
 
@@ -106,6 +106,7 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   /* font-weight: bold; */
+  color: black;
   background: orange;
 }
 
