@@ -106,8 +106,7 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   /* font-weight: bold; */
-  color: steelblue;
-  background: goldenrod;
+  background: orange;
 }
 
 /* Sticky sidebar
