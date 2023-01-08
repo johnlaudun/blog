@@ -1,6 +1,15 @@
----
-layout: page
----
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include sidebar.html %}
+
+    <div class="content container">
+      {{ content }}
+    </div>
 
 <div class="post">
   <span class="post-date">{{ page.date | date_to_string }}</span>
@@ -23,3 +32,6 @@ layout: page
     {% endfor %}
   </ul>
 </div>
+
+</body>
+</html>

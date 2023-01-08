@@ -15,15 +15,10 @@ My training in post-structuralist theories about texts led me to folklore studie
 Much of this early work is qualitative and close, but it always has an eye to what is generalizable and, though I would not have described it this way at the time, operationalizable. Approaching texts as discourse, as a series of words grouped into syntactic clusters that arise out of longer strings words exchanged between individuals within a larger social network/group, the early essays identify ways that speakers manipulate time, authority and other domains through both semantic and pragmatic dimensions. One example stands for many: while working with Elizabeth Bridgwaters, an elder of the African American community in a small Midwestern town, she observed:
 
 > It’s interesting you know.  
->
 > When I was a little girl  
->
 > most black people lived on the east side of town.  
->
 > But some black people lived over here.  
->
 > But they didn’t want us over there.  
->
 > So they built a school over here.
 
 Using carefully considered ideational couplets, Ms. Bridgwaters captures, via shifting pronomial reference, what it feels like to be displaced, to be turned by institutional syntaxes into a “them.” My later work with African Americans in a Louisiana small town has similar research goals, the development of frameworks that made analysts move past considerations of plot and theme to how texts actually achieve their effects. This has blossomed into a series of essays, some of which involved collaborators and one of which has been translated into Chinese, that have focused on a small corpus of legends that have created space for the articulation of a theory of vernacular/folk discourse (2014, 2018, 2021, 2023). As this research line continued, the lack of ability to expand beyond a small number of texts became a pain point. An invitation to the NEH seminar on Network Studies for the Humanities at UCLA’s Institute for Pure and Applied Mathematics solidified my sense that the missing piece of the puzzle was an adequate understanding of quantitative methods and their concomitant theories. 
