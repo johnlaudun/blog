@@ -14,7 +14,7 @@
 /* Global resets */
 
 html {
-  font-family: "PT Sans", Helvetica, sans-serif;
+  font-family: 'Roboto Condensed', "Helvetica Neue", Helvetica, sans-serif;
   color: black;
 }
 @media (min-width: 48em) {
@@ -181,4 +181,11 @@ a.sidebar-nav-item:focus {
   .sidebar {
       display:none;
     }
+  .container {
+    width:100%!important;
+    padding:0!important;
+    margin:0!important;
   }
+  @page {
+    margin: 4cm;
+}
