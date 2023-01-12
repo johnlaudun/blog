@@ -10,10 +10,10 @@ University of Louisiana at Lafayette
 Lafayette, LA 70504-4691  
 337-482-5493  
 laudun@louisiana.edu  
-http://johnlaudun.net/  
-@johnlaudun  
-@johnlaudun@hcommons.social  
-https://github.com/johnlaudun  
+W: http://johnlaudun.net/  
+M: @johnlaudun@hcommons.social  
+T: @johnlaudun  
+GH: https://github.com/johnlaudun  
 
 
 ## Education
@@ -28,9 +28,9 @@ B.A. Philosophy and English (dual major). Louisiana State University. 1986.
 
 ## Employment
 
-Professor. Department of English. University of Louisiana at Lafayette at Lafayette. 2016–present. (On leave 2021–.)
+Professor. Department of English. University of Louisiana at Lafayette at Lafayette. 2016–present. (On leave 2021–22.)
 
-Professor. Social Informatics. U.S. Army Combined Arms Center. Fort Leavenworth. 2021–present.
+Professor. Social Informatics. U.S. Army Combined Arms Center. Fort Leavenworth. 2021–22.
 
 Associate Professor. Department of English. University of Louisiana at Lafayette at Lafayette. 2007–2016.
 
@@ -38,9 +38,9 @@ Assistant Professor. Department of English. University of Louisiana at Lafayette
 
 Associate Director. Center for Louisiana Studies/Center for Cultural and Eco-Tourism. University of Louisiana at Lafayette. Release time granted. 2003–05.
 
-Assistant Director, Office of Executive Education, Kelley School of Business, Indiana University. 1995–97.
+Assistant Director. Office of Executive Education. Kelley School of Business. Indiana University. 1995–97.
 
-## Awards & Prizes
+## Grants & Prizes
 
 Laudun, John. 2013. The Louisiana Crawfish Boat. Louisiana State Board of Regents ATLAS Grant.
 
@@ -50,11 +50,11 @@ Richard, C. E. and John Laudun. 2007. Acadiana Foodways Documentary Project. Lou
 
 Laudun, John and C. E. Richard. 2005. PI. Acadiana Folklife Renewable Documentation Project. Lafayette Convention and Visitors Center.
 
-Laudun, John. 2004. PI. Lache pas la patate: Digitizing and Restoring Endangered Audio Recordings. National Academy of Recordings Arts and Sciences.
+Laudun, John. 2004. PI. Lache pas la patate: Digitizing and Restoring Endangered Audio Recordings. National Academy of Recordings Arts and Sciences (GRAMMY Grant).
 
 Walton, Shana and John Laudun. 2003. Co-PI. Lessons in Folklife for English Language Arts. Louisiana State Board of Regents.
 
-1988\. Delmore Schwartz Prize for Poetry. Syracuse University.
+Laudun, John. 1988. Delmore Schwartz Prize for Poetry. Syracuse University.
 
 
 
@@ -86,13 +86,13 @@ Laudun, John. 2016. _The Amazing Crawfish Boat_. In the Folklore Series in a Mul
 
 ### Articles & Chapters
 
-Laudun, John. [2023]. Repairing Tradition. *Journal of American Folklore*. (Accepted.)
+Laudun, John. [2023]. Repairing Tradition. *Journal of American Folklore*. (In production.)
 
-Laudun, John. 2023. Weathering the Storm: Folk Ideas about Character. In _Wait Five Minutes: Weatherlore in the Twenty-First Century_. Ed. Shelley Ingram and Willow Mullins.
+Laudun, John. 2023. Weathering the Storm: Folk Ideas about Character. In _Wait Five Minutes: Weatherlore in the Twenty-First Century_. Ed. Shelley Ingram and Willow Mullins. (In production.)
 
-Laudun, John. 2021. Repairing Knowledge. In _Technical Cultures of Repair: From Prehistory to the Present Day_ , 393–406. Ed. Liliane Hilaire-Pérez, Gianenrico Bernasconi, Guillaume Carnino and Olivier Raveux. Brepols Publishers.
+Laudun, John. 2021. Repairing Knowledge. In _Technical Cultures of Repair: From Prehistory to the Present Day_, 393–406. Ed. Liliane Hilaire-Pérez, Gianenrico Bernasconi, Guillaume Carnino and Olivier Raveux. Brepols Publishers.
 
-Laudun, John. 2021. The Modes of Vernacular Discourse. _Western Folklore_.
+Laudun, John. 2021. The Modes of Vernacular Discourse. _Western Folklore_ 80(3/4): 401-436.
 
 Laudun, John. 2020. The Clown Legend Cascade of 2016. In _Folklore and Social Media_, 188-208. Eds. Andrew Peck and Trevor Blank. SUNY Press.
 
@@ -116,13 +116,13 @@ Laudun, John. 2014. Counting Tales: Towards a Computational Approach to Folk Nar
 
 Laudun, John and Jonathan Goodwin. 2013. Computing Folklore Studies: Mapping over a Century of Scholarly Production through Topics. _Journal of American Folklore_ 126(502):455–475.
 
-Laudun, John. 2012. “Talking Shit” in Rayne: How Aesthetic Features Reveal Ethical Structures. _Journal of American Folklore_ 125(497):304–326. DOI: 10.5406/jamerfolk.125.497.0304. [JSTOR](https://www.jstor.org/stable/10.5406/jamerfolk.125.497.0304).
+Laudun, John. 2012. "Talking Shit" in Rayne: How Aesthetic Features Reveal Ethical Structures. _Journal of American Folklore_ 125(497):304–326. DOI: 10.5406/jamerfolk.125.497.0304. [JSTOR](https://www.jstor.org/stable/10.5406/jamerfolk.125.497.0304).
 
 Laudun, John. 2011. A Constellation of Stars: The Study of Creativity on a Human Scale, or How a Bunch of Cajun and German Farmers and Fabricators in Louisiana Invented a Traditional Amphibious Boat. In _The Individual in Tradition_. Eds. Ray Cashman, Tom Mould, Pravina Shukla. Bloomington, IN: Indiana University Press. [PDF](https://github.com/johnlaudun/portfolio/blob/master/publications/Laudun_2011.pdf)
 
-Laudun, John. 2011. The Technological Landscape. _Technoculture: An Online Journal of Technology in Society_. [URL](http://tcjournal.org/drupal/vol1/laudun).
+Laudun, John. 2011. The Technological Landscape. _Technoculture: An Online Journal of Technology in Society_. http://tcjournal.org/drupal/vol1/laudun.
 
-Laudun, John. 2010. Gumbo. In _The New Encyclopedia of Southern Culture: Volume 14: Folklife_, 300-304. Ed. Glenn Hinson and William Ferris. University of North Carolina Press.
+Laudun, John. 2009. Gumbo. In _The New Encyclopedia of Southern Culture_ 14: Folklife, 302–4. Ed. Glenn Hinson and William Ferris. University of North Carolina Press. http://www.jstor.org/stable/10.5149/9780807898550_hinson.75.
 
 Laudun, John. 2008. Gumbo This: The State of a Dish. In _Acadians and Cajuns: The Politics and Culture of French Minorities in North America_, 160-175. Ed. Ursula Mathis-Moser and Günter Bischof. Innsbruck, Austria: Innsbruck University Press.
 
@@ -136,9 +136,9 @@ Laudun, John. 2001. Orality. In _Encyclopedia of Lifewriting_, 680-682. Ed. Marg
 
 Laudun, John. 2001. The Elegant and the Mundane. In _Elegance Beauty & Truth_, 27-30. Ed. Lewis Pyenson. Lafayette: Center for Louisiana Studies.
 
-Laudun, John. 2000. “There’s Not Much to Talk about When You’re Taking Pictures of Houses”: The Poetics of Vernacular Spaces. _Southern Folklore_ 57(2):135-158.
+Laudun, John. 2000. "There’s Not Much to Talk about When You’re Taking Pictures of Houses": The Poetics of Vernacular Spaces. _Southern Folklore_ 57(2):135-158.
 
-Laudun, John. 1999. “Talking Shit” in Rayne. _Louisiana Folklore Miscellany_ 14: 81-86.
+Laudun, John. 1999. "Talking Shit" in Rayne. _Louisiana Folklore Miscellany_ 14: 81-86.
 
 Laudun, John. 1998. A Conspiracy of Cartographers: Folklore Studies and Postmodernism. _Folklore Forum_ 29(2): 120–131.
 
@@ -149,7 +149,7 @@ Laudun, John. 1996. Folkways. In _American Folklore: An Encyclopedia_, 295–298
 Laudun, John. 1990. The Poetics of Virtual Space: Designing a Contiguous Architecture for Hypertexts. In _Multiple Perspectives: Courseware Development Using Hypercard_. Syracuse, NY: Syracuse University Writing Program.
 
 
-### Miscellaneous (Essays, Television, CD)
+### Essays, Reviews, Television, CDs
 
 2013\. Dangerous Games. _Chronicle of Higher Education_ (October 1).
 
@@ -168,6 +168,8 @@ Bale, Rachel. 2013. Worker Suffocations Persist as Grain Storage Soars. Rachel B
 2006\. At The Crossroads of Land and Water. In Louisiana Crossroads: Season 7, 2-9. Lafayette, Louisiana: Acadiana Arts Council.
 
 2005\. The Land of the Blue Guitar: The Nature of Art and Life at the Crossroads. In Louisiana Crossroads, 2-9. Lafayette, Louisiana: Acadiana Arts Council.
+
+2004\. Review of _Natchitoches and Louisiana’s Timeless Cane River_, by Richard Seale, Robert DeBlieux, & Harlan Mark Guidry. _Louisiana History: The Journal of the Louisiana Historical Association_ 45(3): 361–362. http://www.jstor.org/stable/4234044.
 
 2004\. The Crossroads in Louisiana. In Louisiana Crossroads 2004-2005, 2-9. Lafayette, Louisiana: Acadiana Arts Council.
 
