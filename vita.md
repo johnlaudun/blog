@@ -687,15 +687,15 @@ Reviewer, Utah State University Press.
 1995-97. International University Consortium for Executive Education.  
 1999-2002. Multi-Ethnic Literatures in the United States.  
 
-## Certificates
-
-Introduction to R Programming. Microsoft Research.
-
-
 ## Links
 
-[Publons](https://publons.com/researcher/1741597/john-laudun/).  
-[OrcID](https://orcid.org/0000-0002-7555-7562).  
+[Academia.edu](https://louisiana.academia.edu/JohnLaudun)  
+[LinkedIn](https://www.linkedin.com/in/johnlaudun/)  
+[OrcID](https://orcid.org/0000-0002-7555-7562)  
+[Publons](https://publons.com/researcher/1741597/john-laudun/)  
+[ResearchGate](https://www.researchgate.net/profile/John-Laudun)  
+
+
 
 
 ## References
