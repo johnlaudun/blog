@@ -182,7 +182,8 @@ a.sidebar-nav-item:focus {
       display:none;
     }
   .page {
-    width:100%!important;
+    width: 90em;
+    /* width:100%!important; */
     padding:0!important;
     margin:0!important;
   }
