@@ -182,8 +182,7 @@ a.sidebar-nav-item:focus {
       display:none;
     }
   .page {
-    width: 90em;
-    /* width:100%!important; */
+    width:100%!important;
     padding:0!important;
     margin:0!important;
   }
@@ -194,5 +193,5 @@ a.sidebar-nav-item:focus {
     font-size: 12pt;
   }
   @page {
-    margin: 4cm;
+    margin: 2.5cm;
 }
