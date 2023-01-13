@@ -3,6 +3,7 @@ layout: page
 title: Colophon
 weight: 10
 ---
+# Colophon
 
 Sites like this are, across multiple dimensions, labors of love: people take the time to build them because they like playing with technology, because they like sharing what they have learned or what they are working on, or because they like spending entirely too much time deep in the weeds of the technologies that lie behind the thing we call the *Intarweb*. 
 

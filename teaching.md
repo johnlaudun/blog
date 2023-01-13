@@ -3,6 +3,7 @@ layout: page
 title: Teaching
 weight: 4
 ---
+# Teaching
 
 Some of the graduate and undergraduate courses I regularly teach.
 
