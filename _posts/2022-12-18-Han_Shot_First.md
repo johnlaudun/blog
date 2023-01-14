@@ -1,0 +1,32 @@
+---
+layout: post
+title: Han Shot First
+date: 2022-12-18
+tag: medium
+---
+
+The mid-1970s was a golden time for Saturday morning science fiction, with _ARK II_ and _Land of the Lost_ combining with the animated _Star Trek_ series to fill millions of American children with hopes for not only a technological future, but one where progress (and justice) were part of the fabric of the future. We were encouraged to think this way because the original _Star Trek_ continued to play at various hours of the week in syndication. Shows like _Logan's Run_ and, for those who had access to public television, _The Prisoner_ warned us that the future always bubbled with dystopian possibilities, but we were largely prone to ignore it, especially when in 1977 the original _Star Wars_ promised us a small band of individuals who saw the importance of justice could strike a blow against the larger force that denied it.
+
+We loved these shows, perhaps in no small part, because of the promise of a meaningful existence for all who wanted it. Children of baby boomers that we were, we had seen our parents work, succeed, but also become ever so slightly hollow. It's not a coincidence that a few years into the next decade, John Mellencamp would have a hit with his song "Pink Houses," pointing out that the promise of America had yet to be delivered evenly -- not unlike William Gibson's observation 20 years later that "the future is here; it's just not evenly distributed."
+
+So when we piled into cinemas set in suburban strip mall parking lots, we had seen the weeds poking up through the concrete as we dropped our bikes to buy an afternoon matinee ticket. We were pre-teens, teens, and kids in our twenties, and while we hadn't seen much of the world, we had glimpsed things and we had an adolescent sense of justice, right but usually for the wrong reasons. 
+
+We had been encouraged to see things this way by a generation of novels and films that often featured outlaw heroes, anti-heroes who did the right thing, sometimes for obscure reasons, and who regularly punished for their efforts or, when there was a reward, it amounted to them surviving at the end of the story. There was no romantic resolution, no settling down to create something larger in Sergio Leone's _Man with No Name_ trilogy. Having done what he could, Clint Eastwood's character survived the end of the film to ride away. nothing more.
+
+We sensed without really knowing that there was in the works a backlash to the progress we longed for: in a few years, Reagan would be president and ketchup would be a vegetable in our school lunches. We were living through the moment in which the first of what would become big box stores were knocking out local small businesses: the shopping malls to which we biked were anchored by TG&Ys and K&Bs or Kmarts. 
+
+We had a sense, then, from both our slightest of experiences as well as from the steady stream of fiction we read and watched that the establishment was not easily defeated, and that there were more facets to the establishment than were readily discussed by our parents at the evening dinner table. We gathered from _All the President's Men_ and _Three Days of the Condor_ that there was more to politics and government than was admitted to in press releases. We gathered from _The Godfather_ that money and politics were intertwined, and we knew from listening to our parents of the compromises they had to make regularly to get along.
+
+And so when the original _Star Wars_ came out in theaters, and I mean the original original, we fell in love with Hans Solo precisely because he shot first. Here was a man caught between two bureaucracies, the Empire and the Hut mafia, just trying to make his way. He didn't, from what we could see of the _Millennium Falcon_, live the high life. He was making it, but just barely. He didn't even have big dreams: he wasn't mooning, like Luke, for the future we all mooned for. He just wanted to get through his day and be alive at the end of it.
+
+And so when some creepy green creature squeezed into the booth at the cantina and threatened Solo, we idolized him for seeing the mortal danger and moving to take it out first. It was precisely what we wished we could do, dispatch the technocrats who regularly hammered on us to make sure we completed our prep work before clocking in or who made us clock out before taking out the cardboard boxes at the end of our grocery store shift or who asked us to look the other way while they snorted coke or while they skimmed a little off the top for themselves. 
+
+What did we get for our compliance? Nothing. Based on the lines slowly being etched into our parents faces year by year, we suspected that this would be our fate, always to acquiesce to the corporate creepsters who worked the system, any system, only for their own personal gain and somehow also looked good to management. 
+
+We were, we realized, doomed to witness the success of assholes over decent people, and it chafed. When Han shot Greedo, we cheered because it was a well-deserved death of an asshole and the ordinary joe was the one who got to do it. It felt triumphant. It felt more triumphant, if I am being honest, than the destruction of the Death Star, because it felt like a personal victory, precisely the kind we never actually ever experienced and worried we never would.
+
+So, in 1977 Han shot first, and it was a win for the little guy, but that kind of win could not be allowed to stand. The kind of morality that power needs to keep us compliance is the kind where you can only strike back if you have been struck first. To strike back as you are slowly being starved ... well, that's a no-no. 
+
+And so, as George Lucas himself transcended from a little guy with a dream to a big man with an IP stack that sold everything from action figures to Christmas specials, he became a bureaucracy himself. And one thing a bureaucracy cannot abide is independent action, especially if that action is to stymy one of its operatives. (And, let's face it, the death of an operative is no more than an inconvenience from a bureaucracy's point of view: Lucas' portrayal of Jabba the Hut's indifference to Greedo's death is spot on.)
+
+With his newfound position at the top of a merchandising empire, a word I use quite purposefully, it was inevitable that Lucas reached back to re-write history. In doing so in 1997, he let slip what we all knew: Lucas' sympathies now lay more with the Empire or the Hut than the rebellion or simply guys trying to make it through another day.
