@@ -98,9 +98,14 @@ figcaption {
   font-size: 1rem;
   color: black;
 }
+
+a.sidebar-nav-item {
+  font-weight: normal;
+}
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: none;
+  font-weight: normal;
 }
 .sidebar-nav-item.active {
   /* font-weight: bold; */

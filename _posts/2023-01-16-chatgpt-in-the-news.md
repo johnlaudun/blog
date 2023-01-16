@@ -10,7 +10,7 @@ To be clear, governments, and their publics, should be concerned about data coll
 
 Here’s a partial account of the data already out there:
 
-| YEAR |          PLATFORM          |           ACCOUNTS           |                                  DETAILS                                  |   |
+| YEAR |          PLATFORM          |           ACCOUNTS           |                                  DETAILS                                  |
 |:----:|:--------------------------:|:----------------------------:|:-------------------------------------------------------------------------:|
 | 2018 | Instagram, TikTok, YouTube |          235 million         |       profile name, real name, profile photo, likes, age, gender, +       |
 | 2018 |          Facebook          |          30 million          |                                 everything                                |
