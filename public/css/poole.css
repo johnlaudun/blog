@@ -61,6 +61,7 @@ body {
 a {
   color: steelblue;
   text-decoration: none;
+  font-weight: bolder;
 }
 a strong {
   color: inherit;
@@ -69,7 +70,7 @@ a strong {
 a:hover,
 a:focus {
   text-decoration: underline;
-  background: goldenrod;
+  background: yellow;
 }
 
 /* Headings */
@@ -242,6 +243,7 @@ img {
 
 /* Tables */
 table {
+  font-size: 0.75rem;
   margin-bottom: 1rem;
   width: 100%;
   border: 1px solid #e5e5e5;

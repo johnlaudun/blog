@@ -11,16 +11,16 @@ To be clear, governments, and their publics, should be concerned about data coll
 Here’s a partial account of the data already out there:
 
 | YEAR |          PLATFORM          |           ACCOUNTS           |                                  DETAILS                                  |   |
-|:----:|:--------------------------:|:----------------------------:|:-------------------------------------------------------------------------:|---|
-| 2018 | Instagram, TikTok, YouTube |          235 million         |       profile name, real name, profile photo, likes, age, gender, +       |   |
-| 2018 |          Facebook          |          30 million          |                                 everything                                |   |
-| 2018 |          Facebook          |          419 million         |                         IDs, names, phone numbers                         |   |
-| 2019 |          Facebook          |          540 million         |                   IDs, comments, likes, “reaction data”                   |   |
-| 2019 |          Facebook          | 533 million in 106 countries |                      IDs, phone numbers, “other info”                     |   |
-| 2021 |          LinkedIn          |          500 million         |         full names, email, phone numbers, workplace information, +        |   |
-| 2021 |          Clubhouse         |          1.3 million         | User ID, Name, Photo URL, Username, Twitter handle, Instagram handle, + * |   |
-| 2021 |           Parler           |        60TB user data        |                            all network activity                           |   |
-| 2021 |             Gab            |           60TB data          |                       all posts (public and private)                      |   |
+|:----:|:--------------------------:|:----------------------------:|:-------------------------------------------------------------------------:|
+| 2018 | Instagram, TikTok, YouTube |          235 million         |       profile name, real name, profile photo, likes, age, gender, +       |
+| 2018 |          Facebook          |          30 million          |                                 everything                                |
+| 2018 |          Facebook          |          419 million         |                         IDs, names, phone numbers                         |
+| 2019 |          Facebook          |          540 million         |                   IDs, comments, likes, “reaction data”                   |
+| 2019 |          Facebook          | 533 million in 106 countries |                      IDs, phone numbers, “other info”                     |
+| 2021 |          LinkedIn          |          500 million         |         full names, email, phone numbers, workplace information, +        |
+| 2021 |          Clubhouse         |          1.3 million         | User ID, Name, Photo URL, Username, Twitter handle, Instagram handle, + * |
+| 2021 |           Parler           |        60TB user data        |                            all network activity                           |
+| 2021 |             Gab            |           60TB data          |                       all posts (public and private)                      |
 
 Given this data, and the ability for an entity with the will and means to do so -- and the means to do so amounts to sufficient computational power and data storage, each of which still gets cheaper every year -- the ability to generate custom material that addresses a user with the correct form and content to get inside their *information bubble* is now entirely not only imaginable but feasible. 
 
