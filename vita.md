@@ -88,9 +88,9 @@ Laudun, John. 2016. _The Amazing Crawfish Boat_. In the Folklore Series in a Mul
 
 Laudun, John. [2023]. Repairing Tradition. *Journal of American Folklore*. (In production.)
 
-Laudun, John. 2023. Weathering the Storm: Folk Ideas about Character. In _Wait Five Minutes: Weatherlore in the Twenty-First Century_. Ed. Shelley Ingram and Willow Mullins. (In production.)
+Laudun, John. 2023. Weathering the Storm: Folk Ideas about Character. In _Wait Five Minutes: Weatherlore in the Twenty-First Century_, 226–247. Ed. Shelley Ingram and Willow Mullins. University Press of Mississippi.
 
-Laudun, John, Tom Kroh, Mahbube Sidikki, Robert Arp, and Adam Lowther. 2021. The Department Of Defense’s Multidomain Operations Challenge. Global Security Review. https://globalsecurityreview.com/defense-department-multidomain-operations-challenge/. 
+Laudun, John, Tom Kroh, Mahbube Sidikki, Robert Arp, and Adam Lowther. 2021. The Department Of Defense’s Multidomain Operations Challenge. _Global Security Review_. https://globalsecurityreview.com/defense-department-multidomain-operations-challenge/.
 
 Laudun, John. 2021. Repairing Knowledge. In _Technical Cultures of Repair: From Prehistory to the Present Day_, 393–406. Ed. Liliane Hilaire-Pérez, Gianenrico Bernasconi, Guillaume Carnino and Olivier Raveux. Brepols Publishers.
 
