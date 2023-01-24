@@ -197,7 +197,11 @@ Bale, Rachel. 2013. Worker Suffocations Persist as Grain Storage Soars. Rachel B
 
 2022\. Possibilities for Modeling and Simulation: Microtargeting a Missilleer. Annual conference of Strategic Command (Lawrence Livermore Labs). 
 
+Tangherlini, Tim and John Laudun. 2020\. An Interview with Tim Tangherlini on Legends. Digital Humanities (Ottawa, Canada). 
+
 2019\. Modes of Vernacular Discourse. American Folklore Society (Baltimore, MD).
+
+2019\. What is Culture Analytics? An Exercise in Applied Definitionistics. Cultural Analytics Workshop: Time Series. Digital Humanities (Utrecht, The Netherlands.)
 
 2019\. “Are We Not Doing Phrasing Anymore?”: Re-Thinking Statistical Approaches to Narrative. Symposium on Data Science & Statistics (Bellevue, WA).
 
@@ -209,7 +213,7 @@ Bale, Rachel. 2013. Worker Suffocations Persist as Grain Storage Soars. Rachel B
 
 2017\. The Clown Legend Cascade of 2016. International Society for Contemporary Legend Research (Lafayette, LA).
 
-2017\. Repairing Knowledge: A Case Study in Natural Knowledge Construction. CONSTRUIT (University of Warwick, Coventry, UK). [PDF](https://github.com/johnlaudun/portfolio/blob/master/presentations/Laudun-2017-Construit.pdf). <!-- [text](texts/construit-2017.md). -->
+2017\. Repairing Knowledge: A Case Study in Natural Knowledge Construction. CONSTRUIT (University of Warwick, Coventry, UK). [PDF](https://github.com/johnlaudun/portfolio/blob/master/presentations/Laudun-2017-Construit.pdf).
 
 Kinnaird, Katherine and John Laudun. 2016. Ten Years of TED Talks: Understanding the Dimensions of a Cultural Phenomenon. International Conference on Social Informatics (SOCINFO).
 
@@ -556,6 +560,8 @@ Topical/areal: American studies, regional and language literatures (Caribbean an
 1988\. Senior Faculty Search Committee, Writing Program, Syracuse University.
 
 ### Professional
+
+2010-22. Member AFS at MLA liaison committee. (Presided over several panels at MLA meetings.)
 
 2013\. Letter in support of promotion. Tim Tangherlini, UCLA.
 
