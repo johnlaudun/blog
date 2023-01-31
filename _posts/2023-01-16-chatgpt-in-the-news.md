@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ChatGPT in the News
+title: Pulling the Strands Together: TikTok and ChatGPT
 date: 2023-01-16
 ---
 
@@ -34,7 +34,7 @@ For the record, I think Kevin Roose, also [writing for the NYT][kr] has the righ
 
 [tiktok]: https://www.nytimes.com/2023/01/15/business/auburn-tiktok-ban-students.html
 [yahoo]: https://finance.yahoo.com/news/90-of-online-content-could-be-generated-by-ai-by-2025-expert-says-201023872.html
-[nyt]: https://www.nytimes.com/2023/01/16/technology/chatgpt-artificial-intelligence-universities.html	
+[nyt]: https://www.nytimes.com/2023/01/16/technology/chatgpt-artificial-intelligence-universities.html
 [kr]: https://www.nytimes.com/2023/01/12/technology/chatgpt-schools-teachers.html"
 
 [^1]: The mantra, which should be a policy (or even a law?), for *any* organization should be not to collect any data you are not prepared either to spend inordinate time and sums of money protecting or are prepared to lose.
