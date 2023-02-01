@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pulling the Strands Together: TikTok and ChatGPT
+title: TikTok and ChatGPT in the News
 date: 2023-01-16
 ---
 
