@@ -197,7 +197,7 @@ Bale, Rachel. 2013. Worker Suffocations Persist as Grain Storage Soars. Rachel B
 
 2022\. Possibilities for Modeling and Simulation: Microtargeting a Missilleer. Annual conference of Strategic Command (Lawrence Livermore Labs). 
 
-Tangherlini, Tim and John Laudun. 2020\. An Interview with Tim Tangherlini on Legends. Digital Humanities (Ottawa, Canada). 
+Tangherlini, Tim and John Laudun. 2020. An Interview with Tim Tangherlini on Legends. Digital Humanities (Ottawa, Canada). 
 
 2019\. Modes of Vernacular Discourse. American Folklore Society (Baltimore, MD).
 
@@ -227,8 +227,6 @@ Gao, Jianbo, Matthew Jockers, John Laudun, Timothy Tangherlini. 2016. A multisca
 
 2015\. The Shape of Legends: Towards an Algorithmic/Augmented Analysis of Folk Narrative. International Society for Contemporary Legend Research (San Antonio, TX.)
 
-2014\. Why Count Words?: Folklore’s Contribution to the Computational Model of Narrative. American Folklife Center, Library of Congress (Washington, D.C.).
-
 2014\. The Matter of Mardi Gras: How Local Festivals Gather and Disperse Materiel across a Landscape. The Mathers Museum, Indiana University (Bloomington, Indiana).
 
 Laudun, John and Jonathan Goodwin. 2014. Mapping Networks in Service of Intellectual History: How Topic Models and Co-Citation Networks Describe a Paradigm Shift in a Humanities Discipline. Texas Digital Humanities Conference (Houston, Texas).
@@ -238,8 +236,6 @@ Laudun, John and Jonathan Goodwin. 2014. Mapping Networks in Service of Intellec
 2014\. The Vernacular in Architecture and What It Means for the Future. Vernacular Inventions, Center for Louisiana Studies (Lafayette, LA).
 
 2014\. Counting Tales: Folklore’s Contribution to the Computational Model of Narrative. American Folklore Society (Santa Fe, NM).
-
-2013\. Counting Tales: Towards a Computational Narratology. Chinese Academy of Social Sciences (Beijing, China).
 
 2013\. Understanding Larger Histories through Smaller Legends. International Forum for Kunlun Culture (Golmud, Qinghai, China).
 
@@ -286,8 +282,6 @@ Laudun, John and Jonathan Goodwin. 2014. Mapping Networks in Service of Intellec
 2006\. An Individual Text and a Community. UL Graduate Conference (Lafayette, Louisiana).
 
 2005\. The Gumbo Lines from Africa to Louisiana. Louisiana and the Caribbean Studies Conference. Louisiana State University. (Baton Rouge, Louisiana).
-
-2005\. Kaliste Saloom & Ambassador Caffery: The Local History(s) and Culture(s) of Lafayette. British Women Writer’s Conference (Lafayette, Louisiana).
 
 2005\. “Talking Shit” in Rayne. American Folklore Society (Atlanta, GA).
 
@@ -356,6 +350,23 @@ Laudun, John and Jonathan Goodwin. 2014. Mapping Networks in Service of Intellec
 1990\. Author! Author?: Authority and Authorship in the Desktop Publishing Classroom. Conference on Computers and Composition (Austin, TX).
 
 1990\. The Context of Context in Folkloristics. American Culture Association (Toronto, Ontario).
+
+### Invited Talks
+
+2020\. Digital Humanities from a Folklorist's Perspective. Brown University (Providence, RI).
+
+2020\. TED Talks as Data, TED Talks as Discourse. Smith College (Northampton, MA).
+
+2020\. Re-Thinking Text Analytics. Amherst College (Amherst, MA). 
+
+2020\. Approaching Digital Humanities as a Curriculum. College of the Holy Cross (Worcester, MA). 
+
+2014\. Why Count Words?: Folklore’s Contribution to the Computational Model of Narrative. American Folklife Center, Library of Congress (Washington, D.C.).
+
+2013\. Counting Tales: Towards a Computational Narratology. Chinese Academy of Social Sciences (Beijing, China).
+
+2005\. Kaliste Saloom & Ambassador Caffery: The Local History(s) and Culture(s) of Lafayette. British Women Writer’s Conference (Lafayette, Louisiana).
+
 
 ### Media Appearances & Interviews
 
