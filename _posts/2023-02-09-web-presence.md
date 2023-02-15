@@ -1,8 +1,8 @@
 # Developing Your Net Presence & Portfolio
 
 <figure>
-<a href="https://media.johnlaudun.net.s3-us-east-2.amazonaws.com/Escaping_criticism-by_pere_borrel_del_caso.png">
-<img src="https://media.johnlaudun.net.s3-us-east-2.amazonaws.com/Escaping_criticism-by_pere_borrel_del_caso.png"
+<a href="https://s3.us-east-2.amazonaws.com/media.johnlaudun.net/Escaping_criticism-by_pere_borrel_del_caso.png">
+<img src="https://s3.us-east-2.amazonaws.com/media.johnlaudun.net/Escaping_criticism-by_pere_borrel_del_caso.png"
 width="500"
 alt=""></a>
 <figcaption> Escaping Criticism by Pere Borrel del Caso (<em>Click to embiggen.</em>)</figcaption>
