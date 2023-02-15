@@ -1,4 +1,9 @@
-# Developing Your Net Presence & Portfolio
+---
+layout: post
+title: Developing Your Net Presence & Portfolio
+date: 2023-02-15
+tags: professionalism
+---
 
 <figure>
 <a href="https://s3.us-east-2.amazonaws.com/media.johnlaudun.net/Escaping_criticism-by_pere_borrel_del_caso.png">
