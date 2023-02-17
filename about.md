@@ -27,8 +27,8 @@ I have been a faculty member at the University of Louisiana at Lafayette since 1
 If you want to connect with me, see the [contact](contact.md) page.
 
 <figure>
-<a href="https://media.johnlaudun.net.s3-us-east-2.amazonaws.com/Laudun_CASS.jpg">
-<img src="https://media.johnlaudun.net.s3-us-east-2.amazonaws.com/Laudun_CASS.jpg"
+<a href="https://s3.us-east-2.amazonaws.com/media.johnlaudun.net/Laudun_CASS.jpg">
+<img src="https://s3.us-east-2.amazonaws.com/media.johnlaudun.net/Laudun_CASS.jpg"
 width="500"
 alt="At the Chinese Academy of Social Sciences"></a>
 <figcaption>At the Chinese Academy of Social Sciences (<em>Click to embiggen.</em>)</figcaption>
